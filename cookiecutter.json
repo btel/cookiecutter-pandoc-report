@@ -1,0 +1,10 @@
+{
+	"title": "Yet another report",
+	"author": "Bartosz Teleńczuk",
+	"date": "{% now 'local' %}",
+    "filename" : "{{ cookiecutter.title.lower().replace(' ', '-') }}",
+	"repo_name": "{{ cookiecutter.date }}-{{ cookiecutter.filename }}",
+    "_copy_without_render" : [
+        "pandoc/pandoc-svg.py"
+        ]
+}

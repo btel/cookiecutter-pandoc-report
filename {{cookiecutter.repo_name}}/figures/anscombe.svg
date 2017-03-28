@@ -1,0 +1,123 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with matplotlib (http://matplotlib.sourceforge.net/) -->
+<svg width="576pt" height="432pt" viewBox="0 0 576 432"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.1"
+   id="svg1">
+<filter id="colorAdd"><feComposite in="SourceGraphic" in2="BackgroundImage" operator="arithmetic" k2="1" k3="1"/></filter>
+<g id="figure1">
+<g id="patch1">
+<path style="fill: #ffffff; stroke: #ffffff; stroke-width: 1.000000; stroke-linejoin: round; stroke-linecap: square;  opacity: 1.000000"  d="M0.000000 432.000000L576.000000 432.000000L576.000000 0.000000
+L0.000000 0.000000z"/>
+</g>
+<g id="axes1">
+<g id="line2d1">
+<defs><path id="me0203abc9723e4a636c507267a38ad54" d="M-3.000000 3.000000L3.000000 3.000000L3.000000 -3.000000
+L-3.000000 -3.000000z"/></defs>
+<defs>
+  <clipPath id="pc169103f7d838860f09669e03ad8462a">
+<rect x="72.000000" y="43.200000" width="202.909091" height="157.090909"/>
+  </clipPath>
+</defs><g clip-path="url(#pc169103f7d838860f09669e03ad8462a)"><use style="fill: #000000; stroke: #000000; stroke-width: 0.500000; stroke-linejoin: round; stroke-linecap: butt;  opacity: 1.000000" xlink:href="#me0203abc9723e4a636c507267a38ad54" x="173.454545" y="121.221818"/>
+<use style="fill: #000000; stroke: #000000; stroke-width: 0.500000; stroke-linejoin: round; stroke-linecap: butt;  opacity: 1.000000" xlink:href="#me0203abc9723e4a636c507267a38ad54" x="153.163636" y="135.490909"/>
+<use style="fill: #000000; stroke: #000000; stroke-width: 0.500000; stroke-linejoin: round; stroke-linecap: butt;  opacity: 1.000000" xlink:href="#me0203abc9723e4a636c507267a38ad54" x="203.890909" y="127.243636"/>
+<use style="fill: #000000; stroke: #000000; stroke-width: 0.500000; stroke-linejoin: round; stroke-linecap: butt;  opacity: 1.000000" xlink:href="#me0203abc9723e4a636c507267a38ad54" x="163.309091" y="111.141818"/>
+<use style="fill: #000000; stroke: #000000; stroke-width: 0.500000; stroke-linejoin: round; stroke-linecap: butt;  opacity: 1.000000" xlink:href="#me0203abc9723e4a636c507267a38ad54" x="183.600000" y="117.425455"/>
+<use style="fill: #000000; stroke: #000000; stroke-width: 0.500000; stroke-linejoin: round; stroke-linecap: butt;  opacity: 1.000000" xlink:href="#me0203abc9723e4a636c507267a38ad54" x="214.036364" y="96.087273"/>
+<use style="fill: #000000; stroke: #000000; stroke-width: 0.500000; stroke-linejoin: round; stroke-linecap: butt;  opacity: 1.000000" xlink:href="#me0203abc9723e4a636c507267a38ad54" x="132.872727" y="131.694545"/>
+<use style="fill: #000000; stroke: #000000; stroke-width: 0.500000; stroke-linejoin: round; stroke-linecap: butt;  opacity: 1.000000" xlink:href="#me0203abc9723e4a636c507267a38ad54" x="112.581818" y="170.705455"/>
+<use style="fill: #000000; stroke: #000000; stroke-width: 0.500000; stroke-linejoin: round; stroke-linecap: butt;  opacity: 1.000000" xlink:href="#me0203abc9723e4a636c507267a38ad54" x="193.745455" y="84.567273"/>
+<use style="fill: #000000; stroke: #000000; stroke-width: 0.500000; stroke-linejoin: round; stroke-linecap: butt;  opacity: 1.000000" xlink:href="#me0203abc9723e4a636c507267a38ad54" x="143.018182" y="163.374545"/>
+<use style="fill: #000000; stroke: #000000; stroke-width: 0.500000; stroke-linejoin: round; stroke-linecap: butt;  opacity: 1.000000" xlink:href="#me0203abc9723e4a636c507267a38ad54" x="122.727273" y="152.116364"/>
+</g></g>
+<g id="line2d2">
+<path style="fill: none; stroke: #ff0000; stroke-width: 2.000000; stroke-linejoin: round; stroke-linecap: square;  opacity: 1.000000" clip-path="url(#pc169103f7d838860f09669e03ad8462a)" d="M112.581818 161.018182L214.036364 95.563636"/>
+</g>
+<g id="matplotlib.axis1">
+</g>
+<g id="matplotlib.axis2">
+</g>
+</g>
+<g id="axes2">
+<g id="line2d3">
+<defs>
+  <clipPath id="p74f7540a1379974cabfea9681771690e">
+<rect x="315.490909" y="43.200000" width="202.909091" height="157.090909"/>
+  </clipPath>
+</defs><g clip-path="url(#p74f7540a1379974cabfea9681771690e)"><use style="fill: #000000; stroke: #000000; stroke-width: 0.500000; stroke-linejoin: round; stroke-linecap: butt;  opacity: 1.000000" xlink:href="#me0203abc9723e4a636c507267a38ad54" x="416.945455" y="106.821818"/>
+<use style="fill: #000000; stroke: #000000; stroke-width: 0.500000; stroke-linejoin: round; stroke-linecap: butt;  opacity: 1.000000" xlink:href="#me0203abc9723e4a636c507267a38ad54" x="396.654545" y="119.912727"/>
+<use style="fill: #000000; stroke: #000000; stroke-width: 0.500000; stroke-linejoin: round; stroke-linecap: butt;  opacity: 1.000000" xlink:href="#me0203abc9723e4a636c507267a38ad54" x="447.381818" y="112.058182"/>
+<use style="fill: #000000; stroke: #000000; stroke-width: 0.500000; stroke-linejoin: round; stroke-linecap: butt;  opacity: 1.000000" xlink:href="#me0203abc9723e4a636c507267a38ad54" x="406.800000" y="111.665455"/>
+<use style="fill: #000000; stroke: #000000; stroke-width: 0.500000; stroke-linejoin: round; stroke-linecap: butt;  opacity: 1.000000" xlink:href="#me0203abc9723e4a636c507267a38ad54" x="427.090909" y="105.250909"/>
+<use style="fill: #000000; stroke: #000000; stroke-width: 0.500000; stroke-linejoin: round; stroke-linecap: butt;  opacity: 1.000000" xlink:href="#me0203abc9723e4a636c507267a38ad54" x="457.527273" y="120.436364"/>
+<use style="fill: #000000; stroke: #000000; stroke-width: 0.500000; stroke-linejoin: round; stroke-linecap: butt;  opacity: 1.000000" xlink:href="#me0203abc9723e4a636c507267a38ad54" x="376.363636" y="146.225455"/>
+<use style="fill: #000000; stroke: #000000; stroke-width: 0.500000; stroke-linejoin: round; stroke-linecap: butt;  opacity: 1.000000" xlink:href="#me0203abc9723e4a636c507267a38ad54" x="356.072727" y="185.890909"/>
+<use style="fill: #000000; stroke: #000000; stroke-width: 0.500000; stroke-linejoin: round; stroke-linecap: butt;  opacity: 1.000000" xlink:href="#me0203abc9723e4a636c507267a38ad54" x="437.236364" y="106.952727"/>
+<use style="fill: #000000; stroke: #000000; stroke-width: 0.500000; stroke-linejoin: round; stroke-linecap: butt;  opacity: 1.000000" xlink:href="#me0203abc9723e4a636c507267a38ad54" x="386.509091" y="131.432727"/>
+<use style="fill: #000000; stroke: #000000; stroke-width: 0.500000; stroke-linejoin: round; stroke-linecap: butt;  opacity: 1.000000" xlink:href="#me0203abc9723e4a636c507267a38ad54" x="366.218182" y="164.421818"/>
+</g></g>
+<g id="line2d4">
+<path style="fill: none; stroke: #ff0000; stroke-width: 2.000000; stroke-linejoin: round; stroke-linecap: square;  opacity: 1.000000" clip-path="url(#p74f7540a1379974cabfea9681771690e)" d="M356.072727 161.018182L457.527273 95.563636"/>
+</g>
+<g id="matplotlib.axis3">
+</g>
+<g id="matplotlib.axis4">
+</g>
+</g>
+<g id="axes3">
+<g id="line2d5">
+<defs>
+  <clipPath id="pc4c1e35c1866532cd56c93a589f56c3c">
+<rect x="72.000000" y="231.709091" width="202.909091" height="157.090909"/>
+  </clipPath>
+</defs><g clip-path="url(#pc4c1e35c1866532cd56c93a589f56c3c)"><use style="fill: #000000; stroke: #000000; stroke-width: 0.500000; stroke-linejoin: round; stroke-linecap: butt;  opacity: 1.000000" xlink:href="#me0203abc9723e4a636c507267a38ad54" x="173.454545" y="317.323636"/>
+<use style="fill: #000000; stroke: #000000; stroke-width: 0.500000; stroke-linejoin: round; stroke-linecap: butt;  opacity: 1.000000" xlink:href="#me0203abc9723e4a636c507267a38ad54" x="153.163636" y="326.356364"/>
+<use style="fill: #000000; stroke: #000000; stroke-width: 0.500000; stroke-linejoin: round; stroke-linecap: butt;  opacity: 1.000000" xlink:href="#me0203abc9723e4a636c507267a38ad54" x="203.890909" y="248.203636"/>
+<use style="fill: #000000; stroke: #000000; stroke-width: 0.500000; stroke-linejoin: round; stroke-linecap: butt;  opacity: 1.000000" xlink:href="#me0203abc9723e4a636c507267a38ad54" x="163.309091" y="321.905455"/>
+<use style="fill: #000000; stroke: #000000; stroke-width: 0.500000; stroke-linejoin: round; stroke-linecap: butt;  opacity: 1.000000" xlink:href="#me0203abc9723e4a636c507267a38ad54" x="183.600000" y="312.741818"/>
+<use style="fill: #000000; stroke: #000000; stroke-width: 0.500000; stroke-linejoin: round; stroke-linecap: butt;  opacity: 1.000000" xlink:href="#me0203abc9723e4a636c507267a38ad54" x="214.036364" y="299.258182"/>
+<use style="fill: #000000; stroke: #000000; stroke-width: 0.500000; stroke-linejoin: round; stroke-linecap: butt;  opacity: 1.000000" xlink:href="#me0203abc9723e4a636c507267a38ad54" x="132.872727" y="335.389091"/>
+<use style="fill: #000000; stroke: #000000; stroke-width: 0.500000; stroke-linejoin: round; stroke-linecap: butt;  opacity: 1.000000" xlink:href="#me0203abc9723e4a636c507267a38ad54" x="112.581818" y="344.421818"/>
+<use style="fill: #000000; stroke: #000000; stroke-width: 0.500000; stroke-linejoin: round; stroke-linecap: butt;  opacity: 1.000000" xlink:href="#me0203abc9723e4a636c507267a38ad54" x="193.745455" y="308.290909"/>
+<use style="fill: #000000; stroke: #000000; stroke-width: 0.500000; stroke-linejoin: round; stroke-linecap: butt;  opacity: 1.000000" xlink:href="#me0203abc9723e4a636c507267a38ad54" x="143.018182" y="330.938182"/>
+<use style="fill: #000000; stroke: #000000; stroke-width: 0.500000; stroke-linejoin: round; stroke-linecap: butt;  opacity: 1.000000" xlink:href="#me0203abc9723e4a636c507267a38ad54" x="122.727273" y="339.970909"/>
+</g></g>
+<g id="line2d6">
+<path style="fill: none; stroke: #ff0000; stroke-width: 2.000000; stroke-linejoin: round; stroke-linecap: square;  opacity: 1.000000" clip-path="url(#pc4c1e35c1866532cd56c93a589f56c3c)" d="M112.581818 349.527273L214.036364 284.072727"/>
+</g>
+<g id="matplotlib.axis5">
+</g>
+<g id="matplotlib.axis6">
+</g>
+</g>
+<g id="axes4">
+<g id="line2d7">
+<defs>
+  <clipPath id="p555f20e1fafce155abe115cb1bf1a7b9">
+<rect x="315.490909" y="231.709091" width="202.909091" height="157.090909"/>
+  </clipPath>
+</defs><g clip-path="url(#p555f20e1fafce155abe115cb1bf1a7b9)"><use style="fill: #000000; stroke: #000000; stroke-width: 0.500000; stroke-linejoin: round; stroke-linecap: butt;  opacity: 1.000000" xlink:href="#me0203abc9723e4a636c507267a38ad54" x="396.654545" y="328.843636"/>
+<use style="fill: #000000; stroke: #000000; stroke-width: 0.500000; stroke-linejoin: round; stroke-linecap: butt;  opacity: 1.000000" xlink:href="#me0203abc9723e4a636c507267a38ad54" x="396.654545" y="339.578182"/>
+<use style="fill: #000000; stroke: #000000; stroke-width: 0.500000; stroke-linejoin: round; stroke-linecap: butt;  opacity: 1.000000" xlink:href="#me0203abc9723e4a636c507267a38ad54" x="396.654545" y="314.050909"/>
+<use style="fill: #000000; stroke: #000000; stroke-width: 0.500000; stroke-linejoin: round; stroke-linecap: butt;  opacity: 1.000000" xlink:href="#me0203abc9723e4a636c507267a38ad54" x="396.654545" y="299.258182"/>
+<use style="fill: #000000; stroke: #000000; stroke-width: 0.500000; stroke-linejoin: round; stroke-linecap: butt;  opacity: 1.000000" xlink:href="#me0203abc9723e4a636c507267a38ad54" x="396.654545" y="304.101818"/>
+<use style="fill: #000000; stroke: #000000; stroke-width: 0.500000; stroke-linejoin: round; stroke-linecap: butt;  opacity: 1.000000" xlink:href="#me0203abc9723e4a636c507267a38ad54" x="396.654545" y="322.821818"/>
+<use style="fill: #000000; stroke: #000000; stroke-width: 0.500000; stroke-linejoin: round; stroke-linecap: butt;  opacity: 1.000000" xlink:href="#me0203abc9723e4a636c507267a38ad54" x="396.654545" y="346.254545"/>
+<use style="fill: #000000; stroke: #000000; stroke-width: 0.500000; stroke-linejoin: round; stroke-linecap: butt;  opacity: 1.000000" xlink:href="#me0203abc9723e4a636c507267a38ad54" x="508.254545" y="251.345455"/>
+<use style="fill: #000000; stroke: #000000; stroke-width: 0.500000; stroke-linejoin: round; stroke-linecap: butt;  opacity: 1.000000" xlink:href="#me0203abc9723e4a636c507267a38ad54" x="396.654545" y="342.196364"/>
+<use style="fill: #000000; stroke: #000000; stroke-width: 0.500000; stroke-linejoin: round; stroke-linecap: butt;  opacity: 1.000000" xlink:href="#me0203abc9723e4a636c507267a38ad54" x="396.654545" y="311.432727"/>
+<use style="fill: #000000; stroke: #000000; stroke-width: 0.500000; stroke-linejoin: round; stroke-linecap: butt;  opacity: 1.000000" xlink:href="#me0203abc9723e4a636c507267a38ad54" x="396.654545" y="324.785455"/>
+</g></g>
+<g id="line2d8">
+<path style="fill: none; stroke: #ff0000; stroke-width: 2.000000; stroke-linejoin: round; stroke-linecap: square;  opacity: 1.000000" clip-path="url(#p555f20e1fafce155abe115cb1bf1a7b9)" d="M396.654545 323.345455L508.254545 251.345455"/>
+</g>
+<g id="matplotlib.axis7">
+</g>
+<g id="matplotlib.axis8">
+</g>
+</g>
+</g>
+</svg>
